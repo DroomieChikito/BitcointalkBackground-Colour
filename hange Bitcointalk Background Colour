@@ -1,0 +1,8 @@
+// ==UserScript==
+// @name        Droomie Chikito Creative
+// @namespace   https://bitcointalk.org/
+// @description Change Bitcointalk Background Colour
+// @include     https://bitcointalk.org/*
+// @version     1.0
+// ==/UserScript==
+document.body.style.background = "pink";
